@@ -178,7 +178,7 @@ a:hover {
 .info {
   display: flex;
   align-items: center;
-  margin: 5px 0;
+  margin: 5px 1px;
 }
 
 section.info {
@@ -186,7 +186,7 @@ section.info {
 }
 
 section.info p {
-  margin: 0 10px;
+  margin: 0 7px;
 }
 
 .tech {
